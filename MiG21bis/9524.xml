@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+    <sim>
+        <model>
+            <livery>
+                <name type="string">9524</name>
+                <texture>Liveries/9524.png</texture>
+            </livery>
+            <livery-logo>
+                <texture>Liveries/9524.png</texture>
+            </livery-logo>
+        </model>
+    </sim>
+
+</PropertyList>
