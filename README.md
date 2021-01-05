@@ -1,1 +1,1 @@
-# SP-NTX.FlightGearLIVERIES
+# SP-NTX Liveries
