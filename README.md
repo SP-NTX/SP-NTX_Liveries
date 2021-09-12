@@ -1,5 +1,5 @@
 # SP-NTX Liveries
 # DC-3
 <li>PLL LOT</li> 
-# 747-400
+<b>747-400</b>
 <li>Air Canada</li>
